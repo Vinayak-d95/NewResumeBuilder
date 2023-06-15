@@ -1,0 +1,31 @@
+.container {
+  margin-top: 50px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.add-more {
+  margin-top: 10px;
+}
+
+.skill-badge {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  padding: 5px 10px;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+.close {
+  font-size: 18px;
+  color: #fff;
+  opacity: 0.7;
+  text-shadow: none;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+}
+
